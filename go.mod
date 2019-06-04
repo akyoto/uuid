@@ -1,3 +1,3 @@
-module github.com/google/uuid
+module github.com/akyoto/uuid
 
 go 1.12
